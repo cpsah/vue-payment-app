@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Open Sans', sans-serif;
+  }
+}
+
+:root {
+  --primary-color-50: #EBF5FF;
+  --primary-color-700: #1A56DB; /* background color */
+  --primary-color-800: #1E429F; /* hover color */
+
+  --blue-color-50: #EBF5FF;
+  --blue-color-100: #E1EFFE;
+}

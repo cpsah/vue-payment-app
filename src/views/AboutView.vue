@@ -1,7 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+	<div class="h-96 flex items-center justify-center">
+		<h1>This is an about page</h1>
+	</div>
 </template>
 
 <style>
