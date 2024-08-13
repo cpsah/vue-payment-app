@@ -59,3 +59,9 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+
+### Fix Lint issue
+
+```sh
+npm run lint-fix
+```
